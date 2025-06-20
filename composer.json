@@ -1,6 +1,6 @@
 {
     "name": "ali-eltaweel/lazy-props",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "PHP Lazy-initialized properties",
     "maintainers": [
         {
